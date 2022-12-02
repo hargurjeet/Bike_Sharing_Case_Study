@@ -20,12 +20,12 @@ The repository contains the machine learning model developed for BoomBikes for p
 - What is the dataset that is being used?
 
 - ### Business Problem
-BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is thinking of way to improve its revneues once the pendamic ends and the economy restores to a healthy state.
+> BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is thinking of way to improve its revneues once the pendamic ends and the economy restores to a healthy state.
 
-BoomBikes inpires to understand the driving factors that could make an impact in increasing of their revenues which in term mean they want to understand factors that impacts the ride sharing business. They have gathered large data on daily bike demands across the American market based on some factors.
+> BoomBikes inpires to understand the driving factors that could make an impact in increasing of their revenues which in term mean they want to understand factors that impacts the ride sharing business. They have gathered large data on daily bike demands across the American market based on some factors.
 
 - ### Proposed Solution
-Developing a machine learning model that can predict the demand of shared ride based on key driving factors.
+> Developing a machine learning model that can predict the demand of shared ride based on key driving factors.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
