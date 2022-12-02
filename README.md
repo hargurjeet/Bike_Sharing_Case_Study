@@ -1,8 +1,8 @@
-# Bike_Sharing_Case_Study
+# 
 The repository contains the machine learning model developed for BoomBikes for prediction of demand for shared bikes
 
-# Project Name
-> Outline a brief description of your project.
+# Bike_Sharing_Case_Study
+> The case study/dataset provides the details of shared bike rides taken at a certain time interval. It is required to build a machine learning algorithm to predict the demand of shared bikes.
 
 
 ## Table of Contents
@@ -19,6 +19,15 @@ The repository contains the machine learning model developed for BoomBikes for p
 - What is the business probem that your project is trying to solve?
 - What is the dataset that is being used?
 
+- ### Business Problem
+BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is thinking of way to improve its revneues once the pendamic ends and the economy restores to a healthy state.
+
+BoomBikes inpires to understand the driving factors that could make an impact in increasing of their revenues which in term mean they want to understand factors that impacts the ride sharing business. They have gathered large data on daily bike demands across the American market based on some factors.
+
+- ### Proposed Solution
+Developing a machine learning model that can predict the demand of shared ride based on key driving factors.
+
+
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
@@ -31,9 +40,9 @@ The repository contains the machine learning model developed for BoomBikes for p
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- pandas
+- numpy
+- sklearn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
