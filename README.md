@@ -20,15 +20,17 @@
 > Developing a machine learning model that can predict the demand of shared ride based on key driving factors.
 
 - ### About Dataset
+> - The dataset contains 700+ records providing the details of rides
+  - The Features contains weather, tempeature, season, holiday, humidity...etc.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Rides sharing are seasonal,their are high rides sharing on summer and fall as compared to other season.
+- The trend of Rides sharing is picking and Year on year there is increase in ride sharing.
+- The is not much variation observed on ride sharing on weekdays or working day and weekends.
+- Rides sharing is towards the higher side when the weather is clear.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -37,6 +39,9 @@
 - pandas
 - numpy
 - sklearn
+- Statsmodel
+- seaborn
+- matplotlib
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
