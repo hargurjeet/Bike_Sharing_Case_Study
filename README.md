@@ -21,7 +21,7 @@
 
 - ### About Dataset
 > - The dataset contains 700+ records providing the details of rides
-  - The Features contains weather, tempeature, season, holiday, humidity...etc.
+> - The Features contains weather, tempeature, season, holiday, humidity...etc.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
